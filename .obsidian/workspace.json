@@ -13,73 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "NETkaizen/PERDIENDO 60 MILS SOLES.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "407b0afb68057c01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dadad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "657bf710b90d24f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sin título 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a30277109740b06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tablet surface.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "082e501f570d047b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tablet 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "2de485df9694cf5b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c252715ee71e4b1b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -148,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tablet 2.md",
+                "file": "NETkaizen/PERDIENDO 60 MILS SOLES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tablet 2.md",
+                "file": "NETkaizen/PERDIENDO 60 MILS SOLES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tablet 2.md"
+                "file": "NETkaizen/PERDIENDO 60 MILS SOLES.md"
               }
             }
           }
@@ -210,12 +147,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "082e501f570d047b",
+  "active": "34001e549ace0c2e",
   "lastOpenFiles": [
-    "tablet surface.md",
+    "NETkaizen/PERDIENDO 60 MILS SOLES.md",
+    "Sin título.canvas",
+    "Welcome.md",
+    "NETkaizen/Libro HLAADEB",
+    "NETkaizen",
     "tablet 2.md",
-    "Sin título 1.md",
     "dadad.md",
-    "Welcome.md"
+    "GeoTECNIA",
+    "GEOminas",
+    "tablet surface.md",
+    "Sin título 1.md"
   ]
 }
