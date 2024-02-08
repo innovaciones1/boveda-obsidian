@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6e53852c9fcc4285","type":"text","text":"Fundamentos hidrogeologicos","x":-296,"y":-121,"width":250,"height":101},
+		{"id":"8b6b9158c8828f26","x":23,"y":-289,"width":657,"height":329,"type":"file","file":"HidroGeologia/Fundamentos de Hidrogeologia UNSA/Fundamentos Hidrogeológicos.md"}
+	],
+	"edges":[
+		{"id":"4242bf766f591e94","fromNode":"6e53852c9fcc4285","fromSide":"right","toNode":"8b6b9158c8828f26","toSide":"left"}
+	]
+}
