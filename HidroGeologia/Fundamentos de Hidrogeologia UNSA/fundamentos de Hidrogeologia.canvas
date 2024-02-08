@@ -1,7 +1,8 @@
 {
 	"nodes":[
+		{"id":"03bf8f4c30dc1ed3","x":36,"y":143,"width":250,"height":60,"type":"text","text":""},
 		{"id":"6e53852c9fcc4285","type":"text","text":"Fundamentos hidrogeologicos","x":-296,"y":-121,"width":250,"height":101},
-		{"id":"8b6b9158c8828f26","x":23,"y":-289,"width":657,"height":329,"type":"file","file":"HidroGeologia/Fundamentos de Hidrogeologia UNSA/Fundamentos Hidrogeológicos.md"}
+		{"id":"8b6b9158c8828f26","type":"file","file":"HidroGeologia/Fundamentos de Hidrogeologia UNSA/Fundamentos Hidrogeológicos.md","x":23,"y":-289,"width":657,"height":329}
 	],
 	"edges":[
 		{"id":"4242bf766f591e94","fromNode":"6e53852c9fcc4285","fromSide":"right","toNode":"8b6b9158c8828f26","toSide":"left"}
