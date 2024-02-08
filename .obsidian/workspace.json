@@ -32,19 +32,27 @@
             }
           },
           {
-            "id": "78fbcc74effe07ad",
+            "id": "e5a6be8858c435d8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "792b1de0f3520aa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GeoTECNIA/Geotecnia.md",
+                "file": "NETkaizen/PERDIENDO 60 MILS SOLES.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 264.5
   },
   "right": {
     "id": "155781e0f8ea6e66",
@@ -110,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GeoTECNIA/Geotecnia.md",
+                "file": "NETkaizen/PERDIENDO 60 MILS SOLES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GeoTECNIA/Geotecnia.md",
+                "file": "NETkaizen/PERDIENDO 60 MILS SOLES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GeoTECNIA/Geotecnia.md"
+                "file": "NETkaizen/PERDIENDO 60 MILS SOLES.md"
               }
             }
           }
@@ -172,10 +180,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "78fbcc74effe07ad",
+  "active": "792b1de0f3520aa4",
   "lastOpenFiles": [
-    "GEOminas/geo minas.md",
+    "HidroGeologia/Fundamentos de Hidrogeologia UNSA/fundamentos de Hidrogeologia.canvas",
+    "HidroGeologia/Fundamentos de Hidrogeologia UNSA/1. Ciclos hidrologicos y sus componentes.md",
+    "HidroGeologia/Fundamentos de Hidrogeologia UNSA/1.1. Permeabilidad del suelo.md",
+    "HidroGeologia/Fundamentos de Hidrogeologia UNSA/Fundamentos Hidrogeológicos.md",
+    "HidroGeologia/Fundamentos de Hidrogeologia UNSA",
     "GeoTECNIA/Geotecnia.md",
+    "HidroGeologia",
+    "GEOminas/geo minas.md",
     "NETkaizen/PERDIENDO 60 MILS SOLES.md",
     "Sin título.canvas",
     "Welcome.md",
