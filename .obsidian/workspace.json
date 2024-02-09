@@ -23,12 +23,8 @@
             "id": "37ccea2e03a712ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HidroGeologia/Fundamentos de Hidrogeologia UNSA/3. Exploración Hidrogeológica.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HidroGeologia/Fundamentos de Hidrogeologia UNSA/3. Exploración Hidrogeológica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HidroGeologia/Fundamentos de Hidrogeologia UNSA/3. Exploración Hidrogeológica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HidroGeologia/Fundamentos de Hidrogeologia UNSA/3. Exploración Hidrogeológica.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,9 +154,9 @@
   },
   "active": "37ccea2e03a712ea",
   "lastOpenFiles": [
-    "Sin título 1.md",
-    "HidroGeologia/Fundamentos de Hidrogeologia UNSA/2. Acuíferos y su Concepto de Hidráulica.md",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/3. Exploración Hidrogeológica.md",
+    "HidroGeologia/Fundamentos de Hidrogeologia UNSA/4. Hidráulica de Captaciones y ensayos de bombeo..md",
+    "HidroGeologia/Fundamentos de Hidrogeologia UNSA/2. Acuíferos y su Concepto de Hidráulica.md",
     "GEOminas/geo minas.md",
     "NETkaizen/PERDIENDO 60 MILS SOLES.md",
     "GeoTECNIA/Geotecnia.md",
