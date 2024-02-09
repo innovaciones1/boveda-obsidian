@@ -4,58 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "739ce22a625ef9e5",
+        "id": "2534ebbc18a08d37",
         "type": "tabs",
         "children": [
           {
-            "id": "34001e549ace0c2e",
+            "id": "7c57aba10649ab8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NETkaizen/PERDIENDO 60 MILS SOLES.md",
+                "file": "HidroGeologia/Fundamentos de Hidrogeologia UNSA/2. Acuíferos y su Concepto de Hidráulica.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9903636e7933ee5f",
+            "id": "37ccea2e03a712ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GeoTECNIA/Geotecnia.md",
+                "file": "HidroGeologia/Fundamentos de Hidrogeologia UNSA/3. Exploración Hidrogeológica.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e5a6be8858c435d8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "792b1de0f3520aa4",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "HidroGeologia/Fundamentos de Hidrogeologia UNSA/fundamentos de Hidrogeologia.canvas",
-                "viewState": {
-                  "x": 174.1043179613854,
-                  "y": -17.00102622386047,
-                  "zoom": -0.5922393309969175
-                }
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HidroGeologia/Fundamentos de Hidrogeologia UNSA/fundamentos de Hidrogeologia.canvas",
+                "file": "HidroGeologia/Fundamentos de Hidrogeologia UNSA/3. Exploración Hidrogeológica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HidroGeologia/Fundamentos de Hidrogeologia UNSA/fundamentos de Hidrogeologia.canvas",
+                "file": "HidroGeologia/Fundamentos de Hidrogeologia UNSA/3. Exploración Hidrogeológica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HidroGeologia/Fundamentos de Hidrogeologia UNSA/fundamentos de Hidrogeologia.canvas"
+                "file": "HidroGeologia/Fundamentos de Hidrogeologia UNSA/3. Exploración Hidrogeológica.md"
               }
             }
           }
@@ -183,17 +160,20 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "792b1de0f3520aa4",
+  "active": "37ccea2e03a712ea",
   "lastOpenFiles": [
+    "Sin título 1.md",
+    "HidroGeologia/Fundamentos de Hidrogeologia UNSA/2. Acuíferos y su Concepto de Hidráulica.md",
+    "HidroGeologia/Fundamentos de Hidrogeologia UNSA/3. Exploración Hidrogeológica.md",
+    "GEOminas/geo minas.md",
+    "NETkaizen/PERDIENDO 60 MILS SOLES.md",
+    "GeoTECNIA/Geotecnia.md",
+    "HidroGeologia/Fundamentos de Hidrogeologia UNSA/fundamentos de Hidrogeologia.canvas",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/Fundamentos Hidrogeológicos.md",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/1. Ciclos hidrologicos y sus componentes.md",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/1.1. Permeabilidad del suelo.md",
-    "NETkaizen/PERDIENDO 60 MILS SOLES.md",
-    "HidroGeologia/Fundamentos de Hidrogeologia UNSA/fundamentos de Hidrogeologia.canvas",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA",
-    "GeoTECNIA/Geotecnia.md",
     "HidroGeologia",
-    "GEOminas/geo minas.md",
     "Sin título.canvas",
     "Welcome.md",
     "NETkaizen/Libro HLAADEB",
@@ -202,7 +182,6 @@
     "dadad.md",
     "GeoTECNIA",
     "GEOminas",
-    "tablet surface.md",
-    "Sin título 1.md"
+    "tablet surface.md"
   ]
 }
