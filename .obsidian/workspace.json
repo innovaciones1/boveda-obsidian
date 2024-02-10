@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HidroGeologia/Fundamentos de Hidrogeologia UNSA/2. Acuíferos y su Concepto de Hidráulica.md",
+                "file": "NETkaizen/Diario/2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64fdf906dffc15e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-02-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,17 +38,9 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "852cd05ad5442c61",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-02-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-02-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,15 +145,33 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "2024-02-09.md"
+              }
+            }
+          },
+          {
+            "id": "e19b72638030169a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a278536c1cf5e91a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,19 +181,27 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "852cd05ad5442c61",
+  "active": "64fdf906dffc15e2",
   "lastOpenFiles": [
+    "GeoTECNIA/Geotecnia.md",
+    "2024-02-09.md",
+    "Excalidraw/Drawing 2024-02-09 23.43.18.excalidraw.md",
+    "NETkaizen/Diario/2.md",
+    "Excalidraw",
+    "NETkaizen/Diario",
+    "HidroGeologia/Fundamentos de Hidrogeologia UNSA/2. Acuíferos y su Concepto de Hidráulica.md",
     "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/0. Hidrogeología Ambiental.md",
     "HidroGeologia/HIDROGEOLOGIA AMBIENTAL",
-    "HidroGeologia/Fundamentos de Hidrogeologia UNSA/2. Acuíferos y su Concepto de Hidráulica.md",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/3. Exploración Hidrogeológica.md",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/4. Hidráulica de Captaciones y ensayos de bombeo..md",
     "GEOminas/geo minas.md",
     "NETkaizen/PERDIENDO 60 MILS SOLES.md",
-    "GeoTECNIA/Geotecnia.md",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/fundamentos de Hidrogeologia.canvas",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/Fundamentos Hidrogeológicos.md",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/1. Ciclos hidrologicos y sus componentes.md",
