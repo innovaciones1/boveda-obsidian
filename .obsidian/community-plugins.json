@@ -1,4 +1,14 @@
 [
   "obsidian42-brat",
-  "git-sync"
+  "git-sync",
+  "tag-wrangler",
+  "table-editor-obsidian",
+  "obsidian-kanban",
+  "templater-obsidian",
+  "dataview",
+  "calendar",
+  "obsidian-excalidraw-plugin",
+  "obsidian-outliner",
+  "obsidian-excel-to-markdown-table",
+  "url-into-selection"
 ]
