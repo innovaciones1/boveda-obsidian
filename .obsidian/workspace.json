@@ -26,9 +26,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "852cd05ad5442c61",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,11 +160,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "37ccea2e03a712ea",
+  "active": "852cd05ad5442c61",
   "lastOpenFiles": [
+    "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/0. Hidrogeología Ambiental.md",
+    "HidroGeologia/HIDROGEOLOGIA AMBIENTAL",
+    "HidroGeologia/Fundamentos de Hidrogeologia UNSA/2. Acuíferos y su Concepto de Hidráulica.md",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/3. Exploración Hidrogeológica.md",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/4. Hidráulica de Captaciones y ensayos de bombeo..md",
-    "HidroGeologia/Fundamentos de Hidrogeologia UNSA/2. Acuíferos y su Concepto de Hidráulica.md",
     "GEOminas/geo minas.md",
     "NETkaizen/PERDIENDO 60 MILS SOLES.md",
     "GeoTECNIA/Geotecnia.md",
