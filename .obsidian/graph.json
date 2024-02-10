@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:HidroGeologia  ",
@@ -22,16 +22,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -3,
+  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.55091638029782,
   "lineSizeMultiplier": 1.61827033218786,
   "collapse-forces": false,
-  "centerStrength": 0.502290950744559,
-  "repelStrength": 8.57961053837342,
-  "linkStrength": 0.461053837342497,
+  "centerStrength": 0.585594416562108,
+  "repelStrength": 17.3831555834379,
+  "linkStrength": 0.578066185696361,
   "linkDistance": 30,
-  "scale": 3.3002346302316914,
+  "scale": 1.112136581897835,
   "close": true
 }
