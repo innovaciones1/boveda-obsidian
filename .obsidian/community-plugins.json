@@ -10,5 +10,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-outliner",
   "obsidian-excel-to-markdown-table",
-  "url-into-selection"
+  "url-into-selection",
+  "canvas-mindmap",
+  "better-fn"
 ]
