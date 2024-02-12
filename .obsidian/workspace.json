@@ -13,21 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NETkaizen/Diario/2.md",
+                "file": "NETkaizen/Diario/12-feb-2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "64fdf906dffc15e2",
+            "id": "935a81aaf9d2244b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2024-02-09.md",
-                "mode": "source",
-                "source": false
+                "file": "Sin título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -39,8 +42,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-09.md",
+                "file": "NETkaizen/Diario/12-feb-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-09.md",
+                "file": "NETkaizen/Diario/12-feb-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-09.md"
+                "file": "NETkaizen/Diario/12-feb-2024.md"
               }
             }
           },
@@ -167,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,12 +189,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "64fdf906dffc15e2",
+  "active": "7c57aba10649ab8f",
   "lastOpenFiles": [
+    "NETkaizen/Diario/11-feb-2024.md",
+    "NETkaizen/Diario/12-feb-2024.md",
+    "HidroGeologia/Fundamentos de Hidrogeologia UNSA/1. Ciclos hidrologicos y sus componentes.md",
     "GeoTECNIA/Geotecnia.md",
-    "2024-02-09.md",
-    "Excalidraw/Drawing 2024-02-09 23.43.18.excalidraw.md",
+    "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/Sin título.canvas",
+    "Sin título.canvas",
+    "Excalidraw/Drawing 2024-02-11 19.47.11.excalidraw.md",
+    "HidroGeologia/Untitled Kanban.md",
     "NETkaizen/Diario/2.md",
+    "2024-02-09.md",
+    "2024-02-11.md",
+    "2024-02-10.md",
+    "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/CAP 1. HIDROGEOLOGIA BASICA.md",
+    "Excalidraw/Drawing 2024-02-09 23.43.18.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-10 13.49.25.excalidraw.md",
     "Excalidraw",
     "NETkaizen/Diario",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/2. Acuíferos y su Concepto de Hidráulica.md",
@@ -204,11 +217,9 @@
     "NETkaizen/PERDIENDO 60 MILS SOLES.md",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/fundamentos de Hidrogeologia.canvas",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/Fundamentos Hidrogeológicos.md",
-    "HidroGeologia/Fundamentos de Hidrogeologia UNSA/1. Ciclos hidrologicos y sus componentes.md",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/1.1. Permeabilidad del suelo.md",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA",
     "HidroGeologia",
-    "Sin título.canvas",
     "Welcome.md",
     "NETkaizen/Libro HLAADEB",
     "NETkaizen",
