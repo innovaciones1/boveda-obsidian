@@ -11,7 +11,7 @@
       "query": "path:HidroGeologia  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 233944
       }
     },
     {
@@ -20,17 +20,31 @@
         "a": 1,
         "rgb": 14069084
       }
+    },
+    {
+      "query": "path:GEOminas  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:GeoTECNIA  ",
+      "color": {
+        "a": 1,
+        "rgb": 1501447
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.55091638029782,
-  "lineSizeMultiplier": 1.61827033218786,
-  "collapse-forces": false,
-  "centerStrength": 0.713574341279799,
-  "repelStrength": 13.9201693851945,
-  "linkStrength": 0.264389899623588,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 2.16017487452949,
+  "lineSizeMultiplier": 1.64373823713927,
+  "collapse-forces": true,
+  "centerStrength": 0.530857904642409,
+  "repelStrength": 15.2336888331242,
+  "linkStrength": 0.774231493099122,
   "linkDistance": 30,
   "scale": 1.1480269086154398,
   "close": true
