@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "792c5c0294678eda",
+        "id": "a53ba9def83ef3d8",
         "type": "tabs",
         "children": [
           {
-            "id": "0fa8506d2e8f096f",
+            "id": "ab635e14564c5f69",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "GeoTECNIA/Geotecnia.md",
-                "mode": "source",
-                "source": false
+                "file": "GeoTECNIA/Trabajo Yanamayo.canvas",
+                "viewState": {
+                  "x": 769.2638296764284,
+                  "y": 276.80374431970733,
+                  "zoom": -1.2803466082129806
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GeoTECNIA/Geotecnia.md",
+                "file": "GeoTECNIA/Trabajo Yanamayo.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GeoTECNIA/Geotecnia.md",
+                "file": "GeoTECNIA/Trabajo Yanamayo.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GeoTECNIA/Geotecnia.md"
+                "file": "GeoTECNIA/Trabajo Yanamayo.canvas"
               }
             }
           },
@@ -175,9 +178,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0fa8506d2e8f096f",
+  "active": "ab635e14564c5f69",
   "lastOpenFiles": [
-    "Sin título.canvas",
+    "Excalidraw/Drawing 2024-02-11 19.47.11.excalidraw.md",
+    "GeoTECNIA/Trabajo Yanamayo.canvas",
+    "NETkaizen/11-feb-2024.md",
+    "GeoTECNIA/Geotecnia.md",
     "Anexos/Cohesión.png",
     "Anexos/Empuje Activo.png",
     "Anexos/Empuje Pasivo.png",
@@ -197,16 +203,13 @@
     "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/Anexos/CAP 1. HIDROGEOLOGIA BASICA 2024-02-16 19.23.27.excalidraw.md",
     "NETkaizen/Diario/16-feb-2024.md",
     "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/Anexos",
-    "Excalidraw/Drawing 2024-02-11 19.47.11.excalidraw.md",
     "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/0. Hidrogeología Ambiental.md",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/Fundamentos Hidrogeológicos.md",
     "NETkaizen/Diario/15-feb-2024.md",
     "NETkaizen/Diario/12-feb-2024.md",
     "NETkaizen/Diario/13-feb-2024.md",
-    "NETkaizen/Diario/11-feb-2024.md",
     "NETkaizen/PERDIENDO 60 MILS SOLES.md",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/1. Ciclos hidrologicos y sus componentes.md",
-    "GeoTECNIA/Geotecnia.md",
     "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/Sin título.canvas",
     "HidroGeologia/Untitled Kanban.md",
     "NETkaizen/Diario/2.md",
