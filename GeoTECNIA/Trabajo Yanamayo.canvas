@@ -1,17 +1,31 @@
 {
 	"nodes":[
-		{"id":"b2b2aa363e50113c","type":"group","x":200,"y":-520,"width":440,"height":583,"label":"Grupo sin título"},
-		{"id":"aaf2ae97db8019b7","type":"group","x":200,"y":-520,"width":440,"height":583,"label":"Grupo sin título"},
-		{"id":"5d6a449179dfa45e","type":"file","file":"Anexos/Pasted image 20240223185505.png","x":221,"y":-500,"width":399,"height":86},
-		{"id":"6312662290eb3df8","type":"file","file":"Anexos/Pasted image 20240223185529.png","x":220,"y":-414,"width":400,"height":135},
-		{"id":"3c78e65165b12f83","type":"file","file":"Anexos/Cohesión.png","x":220,"y":-279,"width":400,"height":322},
+		{"id":"aaf2ae97db8019b7","type":"group","x":200,"y":-520,"width":440,"height":583,"label":"1"},
+		{"id":"5d6a449179dfa45e","type":"file","file":"Anexos/Pasted image 20240223185505.png","x":221,"y":-500,"width":399,"height":86,"color":"2"},
+		{"id":"6312662290eb3df8","type":"file","file":"Anexos/Angulo de Fricción Interna.png","x":220,"y":-414,"width":400,"height":135},
 		{"id":"3a632145578b7893","type":"file","file":"Anexos/Pasted image 20240223183548.png","x":-420,"y":-465,"width":400,"height":102},
-		{"id":"138f3cdbaa27c02f","type":"text","text":"diseño de muro de contension para zotanos","x":-420,"y":-168,"width":320,"height":100,"color":"1"},
 		{"id":"10f0032a6a86dc48","type":"file","file":"Anexos/Empuje Activo.png","x":840,"y":-615,"width":400,"height":231},
 		{"id":"ca2cb51603d02b39","type":"file","file":"Anexos/Empuje Pasivo.png","x":840,"y":-346,"width":400,"height":229},
-		{"id":"0454ff1580a937bc","x":170,"y":180,"width":490,"height":440,"type":"text","text":"Peso unitario (t/m³)\nCohesión © (kg/cm²)\nÁngulo de fricción (°)\n\nCoeficiente Activo Estático (Ka)\nCoeficiente en Reposo Estático (Ko)\nCoeficiente Pasivo Estático (Kp)\nFactor de Reducción del Empuje Pasivo ®\nCoeficiente Activo Dinámico (Kad)\nCoeficiente en Reposo Dinámico (Kod)\nCoeficiente Pasivo Dinámico (Kpd)\nCoeficiente de fricción bajo la cimentación (tan δ)"}
+		{"id":"3c78e65165b12f83","type":"file","file":"Anexos/Cohesión.png","x":220,"y":-279,"width":400,"height":322},
+		{"id":"c4e066822773e2be","type":"text","text":"Peso unitario (ton/m³) = 2.09 gr/cm3 = 2.09 ton/m3\nCohesión © (kg/cm²) = 0.1449kg/cm2 = 1.426ton/m2\nÁngulo de fricción (°) = 27.69°\n\nCoeficiente Activo Estático (Ka)\nCoeficiente en Reposo Estático (Ko)\nCoeficiente Pasivo Estático (Kp)\n\nFactor de Reducción del Empuje Pasivo ®\n\nCoeficiente Activo Dinámico (Kad)\nCoeficiente en Reposo Dinámico (Kod)\nCoeficiente Pasivo Dinámico (Kpd)\n\nCoeficiente de fricción bajo la cimentación (tan δ)","x":660,"y":180,"width":580,"height":540},
+		{"id":"0454ff1580a937bc","type":"text","text":"Peso unitario (t/m³)\nCohesión © (kg/cm²)\nÁngulo de fricción (°)\n\nCoeficiente Activo Estático (Ka)\nCoeficiente en Reposo Estático (Ko)\nCoeficiente Pasivo Estático (Kp)\n\nFactor de Reducción del Empuje Pasivo ®\n\nCoeficiente Activo Dinámico (Kad)\nCoeficiente en Reposo Dinámico (Kod)\nCoeficiente Pasivo Dinámico (Kpd)\n\nCoeficiente de fricción bajo la cimentación (tan δ)","x":170,"y":180,"width":490,"height":540},
+		{"id":"5211b6bdc2c013c7","type":"text","text":"Coeficiente Activo Estático (Ka)\nCoeficiente en Reposo Estático (Ko)\nCoeficiente Pasivo Estático (Kp)\nFactor de Reducción del Empuje Pasivo R","x":512,"y":1340,"width":438,"height":169},
+		{"id":"a0942e9b4543d0f5","type":"text","text":"Coeficiente Activo Dinámico (Kad)\nCoeficiente en Reposo Dinámico (Kod)\nCoeficiente Pasivo Dinámico (Kpd)\nCoeficiente de fricción bajo la cimentación (tan δ)","x":512,"y":1718,"width":498,"height":161},
+		{"id":"8837b095f31db8d3","type":"text","text":"según Gemini","x":1120,"y":881,"width":250,"height":60},
+		{"id":"2d722a60e9b7c537","type":"text","text":"- **Coeficiente Activo Estático (Ka):**\n\n```\nKa = tan(45° - φ/2) = tan(45° - 27.69°/2) = 0.345\n```\n\n- **Coeficiente en Reposo Estático (Ko):**\n\n```\nKo = 1 - sin(φ) = 1 - sin(27.69°) = 0.553\n```\n\n- **Coeficiente Pasivo Estático (Kp):**\n\n```\nKp = tan(45° + φ/2) = tan(45° + 27.69°/2) = 2.897\n```\n\n**Factor de Reducción del Empuje Pasivo (Rp):**\n\n```\nRp = (1 - sin(φ)) / (1 + sin(φ)) = (1 - sin(27.69°)) / (1 + sin(27.69°)) = 0.343\n```","x":1120,"y":961,"width":909,"height":600},
+		{"id":"2a69f18a26b48e0a","type":"text","text":"**Coeficientes dinámicos:**\n\n- **Coeficiente Activo Dinámico (Kad):**\n\n```\nKad = Ka / (1 + √(Kd/Ka)) = 0.345 / (1 + √(0.345/0.345)) = 0.345\n```\n\n- **Coeficiente en Reposo Dinámico (Kod):**\n\n```\nKod = Ko / (1 + √(Kod/Ko)) = 0.553 / (1 + √(0.553/0.553)) = 0.553\n```\n\n- **Coeficiente Pasivo Dinámico (Kpd):**\n\n```\nKpd = Kp * (1 - √(Kpd/Kp)) = 2.897 * (1 - √(2.897/2.897)) = 2.897\n```\n\n**Coeficiente de fricción bajo la cimentación (tan δ):**\n\n```\ntan δ = 2/3 * tan(φ) = 2/3 * tan(27.69°) = 0.333\n```","x":1120,"y":1601,"width":829,"height":639},
+		{"id":"ff8cee2071d1a68d","type":"text","text":"Tipo de suelo = Gp Gc\nPeso unitario (ton/m³) = 2.09 gr/cm3 = 2.09 ton/m3\nCohesión © (kg/cm²) = 0.1449kg/cm2 = 1.426ton/m2\nÁngulo de fricción (°) = 27.69°\nAltura de Muro = 2.7 m\nInclinación del muro(β) = 0°\nNivel Freático = \nTipo de Cimentación = losa de Cimentación","x":-470,"y":1498,"width":510,"height":234},
+		{"id":"f8eff9f8e28b3908","type":"text","text":"Coeficientes Estaticos","x":160,"y":1438,"width":250,"height":60},
+		{"id":"5919f06e9ca90f65","type":"text","text":"Coeficientes dinamicos","x":160,"y":1732,"width":250,"height":67},
+		{"id":"138f3cdbaa27c02f","type":"text","text":"Diseño de muro de contención para sótanos","x":-800,"y":1561,"width":260,"height":100,"color":"1"}
 	],
 	"edges":[
-		{"id":"f335a278870b2948","fromNode":"138f3cdbaa27c02f","fromSide":"top","toNode":"b2b2aa363e50113c","toSide":"left"}
+		{"id":"ecef71e9ef1715b5","fromNode":"5211b6bdc2c013c7","fromSide":"right","toNode":"2d722a60e9b7c537","toSide":"left"},
+		{"id":"8e32b94180dee6a5","fromNode":"a0942e9b4543d0f5","fromSide":"right","toNode":"2a69f18a26b48e0a","toSide":"left"},
+		{"id":"a249a87c7e4af1da","fromNode":"ff8cee2071d1a68d","fromSide":"right","toNode":"f8eff9f8e28b3908","toSide":"left"},
+		{"id":"ebcee13837962259","fromNode":"ff8cee2071d1a68d","fromSide":"right","toNode":"5919f06e9ca90f65","toSide":"left"},
+		{"id":"344fdfd2e4560029","fromNode":"f8eff9f8e28b3908","fromSide":"right","toNode":"5211b6bdc2c013c7","toSide":"left"},
+		{"id":"57fe9c5db183804a","fromNode":"5919f06e9ca90f65","fromSide":"right","toNode":"a0942e9b4543d0f5","toSide":"left"},
+		{"id":"4040018649645e00","fromNode":"138f3cdbaa27c02f","fromSide":"right","toNode":"ff8cee2071d1a68d","toSide":"left"}
 	]
 }
