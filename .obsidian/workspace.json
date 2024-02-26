@@ -45,9 +45,9 @@
               "state": {
                 "file": "GeoTECNIA/Trabajo Yanamayo.canvas",
                 "viewState": {
-                  "x": -15.364764194069048,
-                  "y": 1763.8777787372503,
-                  "zoom": -0.19117934139840131
+                  "x": 213.50630126327343,
+                  "y": 1698.861803105381,
+                  "zoom": -0.5506472145909564
                 }
               }
             }
@@ -211,9 +211,11 @@
   },
   "active": "2b53ce6c373689bd",
   "lastOpenFiles": [
+    "GeoTECNIA/Anexos/según Normas tecnicas Nacionales.png",
+    "GeoTECNIA/Trabajo Yanamayo.canvas",
+    "GeoTECNIA/Anexos",
     "Sin título.canvas",
     "NETkaizen/Diario/26-feb-2024.md",
-    "GeoTECNIA/Trabajo Yanamayo.canvas",
     "Anexos/Pasted image 20240225212106.png",
     "HidroGeologia/Sin título.md",
     "Anexos/Angulo de Fricción Interna.png",
@@ -255,7 +257,6 @@
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/fundamentos de Hidrogeologia.canvas",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA",
     "HidroGeologia",
-    "NETkaizen/Libro HLAADEB",
-    "NETkaizen"
+    "NETkaizen/Libro HLAADEB"
   ]
 }
