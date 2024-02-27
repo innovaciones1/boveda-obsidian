@@ -15,8 +15,8 @@
               "state": {
                 "file": "HidroGeologia/Trabajo 2 traducción/Sin título.canvas",
                 "viewState": {
-                  "x": 243.53000000000003,
-                  "y": -65.275,
+                  "x": 389.12000000000023,
+                  "y": -246.52000000000004,
                   "zoom": 0
                 }
               }
@@ -157,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -179,17 +179,18 @@
   },
   "active": "bf9673efd6270d7a",
   "lastOpenFiles": [
+    "NETkaizen/Diario/27-feb-2024.md",
+    "PLANTILLAS/Sin título",
+    "PLANTILLAS/Plantilla Diario/{{title}}.md",
+    "NETkaizen/Diario/26-feb-2024.md",
+    "HidroGeologia/Trabajo 2 traducción/Sin título.canvas",
     "HidroGeologia/Trabajo 2 traducción/3. Resultados y Discusiones.md",
     "HidroGeologia/Trabajo 2 traducción/2. Materiales y metodos.md",
     "HidroGeologia/Trabajo 2 traducción/1. Área de estudio.md",
     "HidroGeologia/Trabajo 2 traducción/Análisis Hidro químico - China.md",
-    "HidroGeologia/Trabajo 2 traducción/Sin título.canvas",
     "GeoTECNIA/Trabajo Yanamayo.canvas",
-    "NETkaizen/Diario/26-feb-2024.md",
-    "PLANTILLAS/Plantilla Diario/{{title}}.md",
     "NETkaizen/Diario/12-feb-2024.md",
     "NETkaizen/Diario/24-feb-2024.md",
-    "NETkaizen/Diario/27-feb-2024.md",
     "PLANTILLAS/Plantilla Diario",
     "PLANTILLAS",
     "GeoTECNIA/Anexos/según Normas tecnicas Nacionales.png",
@@ -224,7 +225,6 @@
     "Excalidraw",
     "NETkaizen/Diario",
     "HidroGeologia/HIDROGEOLOGIA AMBIENTAL",
-    "HidroGeologia/Fundamentos de Hidrogeologia UNSA/fundamentos de Hidrogeologia.canvas",
-    "HidroGeologia/Fundamentos de Hidrogeologia UNSA"
+    "HidroGeologia/Fundamentos de Hidrogeologia UNSA/fundamentos de Hidrogeologia.canvas"
   ]
 }
