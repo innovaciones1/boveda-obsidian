@@ -1,5 +1,6 @@
 {
   "format": "DD-MMM-YYYY",
   "folder": "NETkaizen/Diario",
-  "autorun": true
+  "autorun": true,
+  "template": "PLANTILLAS/Plantilla Diario/{{title}}"
 }
