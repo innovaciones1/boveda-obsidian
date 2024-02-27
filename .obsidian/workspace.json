@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "a53ba9def83ef3d8",
+        "id": "f2090f0f9217a5f5",
         "type": "tabs",
         "children": [
           {
-            "id": "ab635e14564c5f69",
+            "id": "bf9673efd6270d7a",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "GeoTECNIA/Trabajo Yanamayo.canvas",
+                "file": "HidroGeologia/Trabajo 2 traducción/Sin título.canvas",
                 "viewState": {
-                  "x": 138.02943686687888,
-                  "y": 1860.6348482393234,
-                  "zoom": -1.3391878245467548
-                }
-              }
-            }
-          },
-          {
-            "id": "41bf6f9c3ee484d6",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "GeoTECNIA/Trabajo Yanamayo.canvas",
-                "viewState": {
-                  "x": 1011.2187737127517,
-                  "y": 3487.32873125891,
-                  "zoom": -0.8279625148574508
+                  "x": 243.53000000000003,
+                  "y": -65.275,
+                  "zoom": 0
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GeoTECNIA/Trabajo Yanamayo.canvas",
+                "file": "HidroGeologia/Trabajo 2 traducción/Sin título.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GeoTECNIA/Trabajo Yanamayo.canvas",
+                "file": "HidroGeologia/Trabajo 2 traducción/Sin título.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GeoTECNIA/Trabajo Yanamayo.canvas"
+                "file": "HidroGeologia/Trabajo 2 traducción/Sin título.canvas"
               }
             }
           },
@@ -193,11 +177,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "41bf6f9c3ee484d6",
+  "active": "bf9673efd6270d7a",
   "lastOpenFiles": [
+    "HidroGeologia/Trabajo 2 traducción/3. Resultados y Discusiones.md",
+    "HidroGeologia/Trabajo 2 traducción/2. Materiales y metodos.md",
+    "HidroGeologia/Trabajo 2 traducción/1. Área de estudio.md",
+    "HidroGeologia/Trabajo 2 traducción/Análisis Hidro químico - China.md",
+    "HidroGeologia/Trabajo 2 traducción/Sin título.canvas",
+    "GeoTECNIA/Trabajo Yanamayo.canvas",
     "NETkaizen/Diario/26-feb-2024.md",
     "PLANTILLAS/Plantilla Diario/{{title}}.md",
-    "GeoTECNIA/Trabajo Yanamayo.canvas",
     "NETkaizen/Diario/12-feb-2024.md",
     "NETkaizen/Diario/24-feb-2024.md",
     "NETkaizen/Diario/27-feb-2024.md",
@@ -205,7 +194,6 @@
     "PLANTILLAS",
     "GeoTECNIA/Anexos/según Normas tecnicas Nacionales.png",
     "GeoTECNIA/Anexos",
-    "Sin título.canvas",
     "Anexos/Pasted image 20240225212106.png",
     "HidroGeologia/Sin título.md",
     "Anexos/Angulo de Fricción Interna.png",
@@ -215,14 +203,10 @@
     "Anexos/Cohesión.png",
     "Anexos/Empuje Activo.png",
     "Anexos/Empuje Pasivo.png",
-    "HidroGeologia/Trabajo 2 traducción/1. Área de estudio.md",
-    "HidroGeologia/Trabajo 2 traducción/3. Resultados y Discusiones.md",
-    "HidroGeologia/Trabajo 2 traducción/2. Materiales y metodos.md",
     "NETkaizen/Diario/20-feb-2024.md",
     "Anexos/Pasted image 20240223185505.png",
     "Anexos/Pasted image 20240223183548.png",
     "Anexos",
-    "HidroGeologia/Trabajo 2 traducción/Análisis Hidro químico - China.md",
     "HidroGeologia/Trabajo 2 traducción/4. Conclusiones.md",
     "NETkaizen/Diario/21-feb-2024.md",
     "HidroGeologia/Trabajo 2 traducción",
