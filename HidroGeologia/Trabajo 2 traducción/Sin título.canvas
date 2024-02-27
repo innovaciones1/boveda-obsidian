@@ -1,15 +1,21 @@
 {
 	"nodes":[
 		{"id":"f8ca6eacbff54c10","type":"text","text":"ANALISIS HIDROQUIMICA","x":-369,"y":-177,"width":169,"height":77},
-		{"id":"61f3fe5da80bb086","type":"text","text":"AREA DE ESTUDIO","x":0,"y":-333,"width":240,"height":53},
-		{"id":"cb966021acf04a18","type":"text","text":"2. MATERIALES Y METODOS","x":0,"y":-236,"width":240,"height":59},
+		{"id":"61f3fe5da80bb086","type":"text","text":"1. AREA DE ESTUDIO","x":0,"y":-330,"width":260,"height":50},
 		{"id":"54812921fa30f344","type":"text","text":"3. RESULTADOS Y DISCUSIONES","x":0,"y":-138,"width":240,"height":58},
-		{"id":"56697195bfb97110","type":"text","text":"4. CONCLUSIONES","x":0,"y":-40,"width":240,"height":50}
+		{"id":"56697195bfb97110","type":"text","text":"4. CONCLUSIONES","x":0,"y":-40,"width":240,"height":50},
+		{"id":"66016bdefa5e3ba5","type":"text","text":"METODOS Y MATERIALES\n","x":0,"y":-240,"width":240,"height":59},
+		{"id":"a2594f4229941c39","type":"text","text":"","x":440,"y":-240,"width":240,"height":59},
+		{"id":"6dc322ce71caa1a9","type":"text","text":"FISIOLOGIA ","x":460,"y":-375,"width":260,"height":50},
+		{"id":"418351c72d110c4e","type":"text","text":"GEOLOGIA","x":460,"y":-305,"width":260,"height":50}
 	],
 	"edges":[
 		{"id":"22e1fbaed4210432","fromNode":"f8ca6eacbff54c10","fromSide":"right","toNode":"61f3fe5da80bb086","toSide":"left"},
-		{"id":"3da477abdbaaca00","fromNode":"f8ca6eacbff54c10","fromSide":"right","toNode":"cb966021acf04a18","toSide":"left"},
 		{"id":"260516acbf09f959","fromNode":"f8ca6eacbff54c10","fromSide":"right","toNode":"54812921fa30f344","toSide":"left"},
-		{"id":"1ac7f964e3b9b1b2","fromNode":"f8ca6eacbff54c10","fromSide":"right","toNode":"56697195bfb97110","toSide":"left"}
+		{"id":"1ac7f964e3b9b1b2","fromNode":"f8ca6eacbff54c10","fromSide":"right","toNode":"56697195bfb97110","toSide":"left"},
+		{"id":"30098017a1144ddb","fromNode":"f8ca6eacbff54c10","fromSide":"right","toNode":"66016bdefa5e3ba5","toSide":"left"},
+		{"id":"acf1c965cb0d274d","fromNode":"66016bdefa5e3ba5","fromSide":"right","toNode":"a2594f4229941c39","toSide":"left"},
+		{"id":"978f8fa9a6662d6d","fromNode":"61f3fe5da80bb086","fromSide":"right","toNode":"6dc322ce71caa1a9","toSide":"left"},
+		{"id":"ce9b3a1887297a03","fromNode":"61f3fe5da80bb086","fromSide":"right","toNode":"418351c72d110c4e","toSide":"left"}
 	]
 }
