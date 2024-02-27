@@ -30,30 +30,15 @@
               "state": {
                 "file": "GeoTECNIA/Trabajo Yanamayo.canvas",
                 "viewState": {
-                  "x": 594.9044760349004,
-                  "y": 1836.6942196126806,
-                  "zoom": -1.384164831290698
-                }
-              }
-            }
-          },
-          {
-            "id": "2b53ce6c373689bd",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "GeoTECNIA/Trabajo Yanamayo.canvas",
-                "viewState": {
-                  "x": 213.50630126327343,
-                  "y": 1698.861803105381,
-                  "zoom": -0.5506472145909564
+                  "x": 1011.2187737127517,
+                  "y": 3487.32873125891,
+                  "zoom": -0.8279625148574508
                 }
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,12 +173,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,17 +193,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b53ce6c373689bd",
+  "active": "41bf6f9c3ee484d6",
   "lastOpenFiles": [
-    "GeoTECNIA/Anexos/según Normas tecnicas Nacionales.png",
+    "NETkaizen/Diario/26-feb-2024.md",
+    "PLANTILLAS/Plantilla Diario/{{title}}.md",
     "GeoTECNIA/Trabajo Yanamayo.canvas",
+    "NETkaizen/Diario/12-feb-2024.md",
+    "NETkaizen/Diario/24-feb-2024.md",
+    "NETkaizen/Diario/27-feb-2024.md",
+    "PLANTILLAS/Plantilla Diario",
+    "PLANTILLAS",
+    "GeoTECNIA/Anexos/según Normas tecnicas Nacionales.png",
     "GeoTECNIA/Anexos",
     "Sin título.canvas",
-    "NETkaizen/Diario/26-feb-2024.md",
     "Anexos/Pasted image 20240225212106.png",
     "HidroGeologia/Sin título.md",
     "Anexos/Angulo de Fricción Interna.png",
-    "NETkaizen/Diario/24-feb-2024.md",
     "Excalidraw/Drawing 2024-02-11 19.47.11.excalidraw.md",
     "NETkaizen/11-feb-2024.md",
     "GeoTECNIA/Geotecnia.md",
@@ -244,19 +233,14 @@
     "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/0. Hidrogeología Ambiental.md",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/Fundamentos Hidrogeológicos.md",
     "NETkaizen/Diario/15-feb-2024.md",
-    "NETkaizen/Diario/12-feb-2024.md",
     "NETkaizen/Diario/13-feb-2024.md",
     "NETkaizen/PERDIENDO 60 MILS SOLES.md",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/1. Ciclos hidrologicos y sus componentes.md",
     "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/Sin título.canvas",
-    "HidroGeologia/Untitled Kanban.md",
-    "NETkaizen/Diario/2.md",
     "Excalidraw",
     "NETkaizen/Diario",
     "HidroGeologia/HIDROGEOLOGIA AMBIENTAL",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/fundamentos de Hidrogeologia.canvas",
-    "HidroGeologia/Fundamentos de Hidrogeologia UNSA",
-    "HidroGeologia",
-    "NETkaizen/Libro HLAADEB"
+    "HidroGeologia/Fundamentos de Hidrogeologia UNSA"
   ]
 }
