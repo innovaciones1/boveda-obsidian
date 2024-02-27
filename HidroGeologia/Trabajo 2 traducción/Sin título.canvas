@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"f8ca6eacbff54c10","type":"text","text":"ANALISIS HIDROQUIMICA","x":-369,"y":-177,"width":169,"height":77},
+		{"id":"61f3fe5da80bb086","type":"text","text":"AREA DE ESTUDIO","x":0,"y":-333,"width":240,"height":53},
+		{"id":"cb966021acf04a18","type":"text","text":"2. MATERIALES Y METODOS","x":0,"y":-236,"width":240,"height":59},
+		{"id":"54812921fa30f344","type":"text","text":"3. RESULTADOS Y DISCUSIONES","x":0,"y":-138,"width":240,"height":58},
+		{"id":"56697195bfb97110","type":"text","text":"4. CONCLUSIONES","x":0,"y":-40,"width":240,"height":50}
+	],
+	"edges":[
+		{"id":"22e1fbaed4210432","fromNode":"f8ca6eacbff54c10","fromSide":"right","toNode":"61f3fe5da80bb086","toSide":"left"},
+		{"id":"3da477abdbaaca00","fromNode":"f8ca6eacbff54c10","fromSide":"right","toNode":"cb966021acf04a18","toSide":"left"},
+		{"id":"260516acbf09f959","fromNode":"f8ca6eacbff54c10","fromSide":"right","toNode":"54812921fa30f344","toSide":"left"},
+		{"id":"1ac7f964e3b9b1b2","fromNode":"f8ca6eacbff54c10","fromSide":"right","toNode":"56697195bfb97110","toSide":"left"}
+	]
+}
