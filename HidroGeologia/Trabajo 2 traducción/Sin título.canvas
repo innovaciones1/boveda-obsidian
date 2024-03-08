@@ -1,13 +1,16 @@
 {
 	"nodes":[
-		{"id":"f8ca6eacbff54c10","type":"text","text":"ANALISIS HIDROQUIMICA","x":-369,"y":-177,"width":169,"height":77},
 		{"id":"61f3fe5da80bb086","type":"text","text":"1. AREA DE ESTUDIO","x":0,"y":-330,"width":260,"height":50},
-		{"id":"54812921fa30f344","type":"text","text":"3. RESULTADOS Y DISCUSIONES","x":0,"y":-138,"width":240,"height":58},
-		{"id":"56697195bfb97110","type":"text","text":"4. CONCLUSIONES","x":0,"y":-40,"width":240,"height":50},
-		{"id":"66016bdefa5e3ba5","type":"text","text":"METODOS Y MATERIALES\n","x":0,"y":-240,"width":240,"height":59},
-		{"id":"a2594f4229941c39","type":"text","text":"","x":440,"y":-240,"width":240,"height":59},
-		{"id":"6dc322ce71caa1a9","type":"text","text":"FISIOLOGIA ","x":460,"y":-375,"width":260,"height":50},
-		{"id":"418351c72d110c4e","type":"text","text":"GEOLOGIA","x":460,"y":-305,"width":260,"height":50}
+		{"id":"f8ca6eacbff54c10","type":"text","text":"ANALISIS HIDROQUIMICA","x":-300,"y":-186,"width":169,"height":77},
+		{"id":"66016bdefa5e3ba5","type":"text","text":"2. METODOS Y MATERIALES\n","x":-40,"y":58,"width":240,"height":59},
+		{"id":"54812921fa30f344","type":"text","text":"3. RESULTADOS Y DISCUSIONES","x":-40,"y":160,"width":240,"height":58},
+		{"id":"56697195bfb97110","type":"text","text":"4. CONCLUSIONES","x":-40,"y":258,"width":240,"height":50},
+		{"id":"82d3598203597eeb","type":"text","text":"HIDROGEOLOGIA","x":500,"y":-355,"width":260,"height":50},
+		{"id":"3ab73de4800fe505","type":"text","text":"## 3 tipos de acuíferos\n\n1. acuífero poroso aluvial\n2. acuífero poroso fluvial\n3. acuífero fracturado del estrato rocoso.\n\n","x":860,"y":-432,"width":460,"height":205},
+		{"id":"418351c72d110c4e","type":"text","text":"GEOLOGIA","x":340,"y":-355,"width":130,"height":50},
+		{"id":"6dc322ce71caa1a9","type":"text","text":"FISIOLOGIA ","x":340,"y":-425,"width":140,"height":50},
+		{"id":"a2594f4229941c39","type":"text","text":"## Métodos \n### 1. Cromatografía de iones\n### 2. Espectrometría de Iones\n### 3. espectrometría de masas con plasmas acoplado inductivamente\n## 4. Métodos de análisis de conglomerados jerárquicos\n## 5. Análisis discriminante de Fisher ","x":300,"y":-147,"width":560,"height":405},
+		{"id":"2ebfa2af06fc09c2","x":920,"y":-147,"width":1140,"height":607,"type":"text","text":"| **Método**                                           | **Principio**                                                      | **Datos obtenidos**                                                    | **Ventajas**                                                              | **Desventajas**                                                                               |\n| ------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |\n| **Cromatografía de iones**                           | Separación de iones en una columna con intercambio iónico      | Concentraciones de aniones y cationes específicos                  | Alta precisión y sensibilidad, análisis simultáneo de múltiples iones | Costoso, requiere personal capacitado, no ideal para análisis de elementos traza<br>      |\n| **Espectrometría de iones**                          | Detección de iones por absorción de luz atómica<br>            | Concentraciones de cationes específicos                            | Sencillo y rápido, bajo costo de análisis                             | Menor precisión que la cromatografía de iones, no determina aniones                       |\n| **Espectrometría de masas con ICP-MS**               | Detección de iones por masa y carga                            | Concentraciones de elementos traza y mayoritarios                  | Alta sensibilidad y precisión, análisis multielemental                | Costoso, requiere personal altamente calificado y equipo especializado                    |\n| **Métodos de análisis de conglomerados jerárquicos** | Agrupación de muestras basada en características hidroquímicas | Identificación de grupos de muestras con características similares | Útil para exploración de datos y la identificación de patrones        | No proporciona información sobre los procesos que generan la composición química del agua |\n| **Análisis discriminante de Fisher**                 | Clasificación de muestras en diferentes grupos predefinidos    | Identificación de la fuente de contaminación o el origen del agua  | Útil para la identificación de fuentes de contaminación               | Requiere un conjunto de datos de entrenamiento bien definido                              |\n"}
 	],
 	"edges":[
 		{"id":"22e1fbaed4210432","fromNode":"f8ca6eacbff54c10","fromSide":"right","toNode":"61f3fe5da80bb086","toSide":"left"},
@@ -16,6 +19,8 @@
 		{"id":"30098017a1144ddb","fromNode":"f8ca6eacbff54c10","fromSide":"right","toNode":"66016bdefa5e3ba5","toSide":"left"},
 		{"id":"acf1c965cb0d274d","fromNode":"66016bdefa5e3ba5","fromSide":"right","toNode":"a2594f4229941c39","toSide":"left"},
 		{"id":"978f8fa9a6662d6d","fromNode":"61f3fe5da80bb086","fromSide":"right","toNode":"6dc322ce71caa1a9","toSide":"left"},
-		{"id":"ce9b3a1887297a03","fromNode":"61f3fe5da80bb086","fromSide":"right","toNode":"418351c72d110c4e","toSide":"left"}
+		{"id":"ce9b3a1887297a03","fromNode":"61f3fe5da80bb086","fromSide":"right","toNode":"418351c72d110c4e","toSide":"left"},
+		{"id":"64090a16d90451ba","fromNode":"418351c72d110c4e","fromSide":"right","toNode":"82d3598203597eeb","toSide":"left"},
+		{"id":"12fb9515c4f7edd8","fromNode":"82d3598203597eeb","fromSide":"right","toNode":"3ab73de4800fe505","toSide":"left"}
 	]
 }
