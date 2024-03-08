@@ -4,25 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "f2090f0f9217a5f5",
+        "id": "befed4b43810cf1d",
         "type": "tabs",
         "children": [
           {
-            "id": "bf9673efd6270d7a",
+            "id": "20fb87e824737249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NETkaizen/Diario/08-mar-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a965a81f0e510945",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "HidroGeologia/Trabajo 2 traducción/Sin título.canvas",
+                "file": "TESIS TORATA/Fuentes Tesis/Sin título.canvas",
                 "viewState": {
-                  "x": 389.12000000000023,
-                  "y": -246.52000000000004,
+                  "x": 0,
+                  "y": -18.612499999999997,
                   "zoom": 0
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HidroGeologia/Trabajo 2 traducción/Sin título.canvas",
+                "file": "TESIS TORATA/Fuentes Tesis/Sin título.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HidroGeologia/Trabajo 2 traducción/Sin título.canvas",
+                "file": "TESIS TORATA/Fuentes Tesis/Sin título.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HidroGeologia/Trabajo 2 traducción/Sin título.canvas"
+                "file": "TESIS TORATA/Fuentes Tesis/Sin título.canvas"
               }
             }
           },
@@ -177,13 +190,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bf9673efd6270d7a",
+  "active": "a965a81f0e510945",
   "lastOpenFiles": [
+    "TESIS TORATA/Fuentes Tesis/Fuentes.md",
+    "TESIS TORATA/Fuentes Tesis/Anexos/Pasted image 20240308121448.png",
+    "TESIS TORATA/Fuentes Tesis/Anexos",
+    "TESIS TORATA/Fuentes Tesis/Sin título.canvas",
+    "NETkaizen/Diario/08-mar-2024.md",
+    "TESIS TORATA/Fuentes Tesis",
+    "TESIS TORATA",
+    "HidroGeologia/Trabajo 2 traducción/Sin título.canvas",
+    "NETkaizen/Diario/02-mar-2024.md",
+    "PLANTILLAS/Plantilla Diario/{{title}}.md",
+    "NETkaizen/Diario/01-mar-2024.md",
+    "NETkaizen/Diario/28-feb-2024.md",
     "NETkaizen/Diario/27-feb-2024.md",
     "PLANTILLAS/Sin título",
-    "PLANTILLAS/Plantilla Diario/{{title}}.md",
     "NETkaizen/Diario/26-feb-2024.md",
-    "HidroGeologia/Trabajo 2 traducción/Sin título.canvas",
     "HidroGeologia/Trabajo 2 traducción/3. Resultados y Discusiones.md",
     "HidroGeologia/Trabajo 2 traducción/2. Materiales y metodos.md",
     "HidroGeologia/Trabajo 2 traducción/1. Área de estudio.md",
@@ -216,15 +239,7 @@
     "NETkaizen/Diario/16-feb-2024.md",
     "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/Anexos",
     "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/0. Hidrogeología Ambiental.md",
-    "HidroGeologia/Fundamentos de Hidrogeologia UNSA/Fundamentos Hidrogeológicos.md",
-    "NETkaizen/Diario/15-feb-2024.md",
-    "NETkaizen/Diario/13-feb-2024.md",
-    "NETkaizen/PERDIENDO 60 MILS SOLES.md",
-    "HidroGeologia/Fundamentos de Hidrogeologia UNSA/1. Ciclos hidrologicos y sus componentes.md",
     "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/Sin título.canvas",
-    "Excalidraw",
-    "NETkaizen/Diario",
-    "HidroGeologia/HIDROGEOLOGIA AMBIENTAL",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/fundamentos de Hidrogeologia.canvas"
   ]
 }
