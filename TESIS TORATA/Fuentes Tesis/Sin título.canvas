@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"c29c05b5470bcc63","x":-200,"y":-200,"width":400,"height":400,"type":"link","url":"https://portal.indeci.gob.pe/wp-content/uploads/2024/01/REPORTE-COMPLEMENTARIO-N.%C2%BA-1054-31ENE2024-HUAICO-EN-EL-DISTRITO-DE-TORATA-MOQUEGUA-1.pdf"},
-		{"id":"4f2bf367c512b8ba","x":-200,"y":-300,"width":250,"height":60,"type":"text","text":"NOTICIAS"}
-	],
-	"edges":[]
-}
