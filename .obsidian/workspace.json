@@ -4,33 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "befed4b43810cf1d",
+        "id": "2b0ded8c48408436",
         "type": "tabs",
         "children": [
           {
-            "id": "20fb87e824737249",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NETkaizen/Diario/08-mar-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a965a81f0e510945",
+            "id": "cd252936fbb835e4",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "TESIS TORATA/Fuentes Tesis/Sin título.canvas",
+                "file": "- TESIS TORATA/Fuentes Tesis/Sin título.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": -18.612499999999997,
-                  "zoom": 0
+                  "x": 46.035,
+                  "y": 716.9132583527119,
+                  "zoom": -0.5064647226532301
                 }
+              }
+            }
+          },
+          {
+            "id": "0dd378798c73fb29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NETkaizen/Diario/marzo-20-2024.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TESIS TORATA/Fuentes Tesis/Sin título.canvas",
+                "file": "NETkaizen/Diario/marzo-20-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TESIS TORATA/Fuentes Tesis/Sin título.canvas",
+                "file": "NETkaizen/Diario/marzo-20-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TESIS TORATA/Fuentes Tesis/Sin título.canvas"
+                "file": "NETkaizen/Diario/marzo-20-2024.md"
               }
             }
           },
@@ -190,55 +190,56 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a965a81f0e510945",
+  "active": "0dd378798c73fb29",
   "lastOpenFiles": [
-    "TESIS TORATA/Fuentes Tesis/Fuentes.md",
+    "NETkaizen/Diario/marzo-20-2024.md",
+    "- TESIS TORATA/Fuentes Tesis/Fuentes.md",
+    "NETkaizen/Diario/marzo-17-2024.md",
+    "NETkaizen/Diario/marzo-09-2024.md",
+    "NETkaizen/Diario/marzo-08-2024.md",
+    "NETkaizen/Diario/marzo-06-2024.md",
+    "PLANTILLAS/Plantilla Diario/{{title}}.md",
+    "NETkaizen/Diario/mar.-08-2024.md",
+    "NETkaizen/Diario/mar.-07-2024.md",
+    "NETkaizen/Diario/27-feb-2024.md",
+    "NETkaizen/Diario/08-mar-2024.md",
+    "NETkaizen/Diario/02-mar-2024.md",
+    "NETkaizen/Diario/01-mar-2024.md",
+    "GeoTECNIA/Anexos/según Normas tecnicas Nacionales.png",
+    "Anexos/Empuje Activo.png",
+    "Anexos/Cohesión.png",
+    "Anexos/Angulo de Fricción Interna.png",
+    "- TESIS TORATA/Fuentes Tesis/Sin título.canvas",
+    "HidroGeologia/Sin título.md",
+    "mj.md",
+    "HidroGeologia/Trabajo 2 traducción/Análisis Hidro químico - China.md",
+    "NETkaizen/Diario/28-feb-2024.md",
     "TESIS TORATA/Fuentes Tesis/Anexos/Pasted image 20240308121448.png",
     "TESIS TORATA/Fuentes Tesis/Anexos",
-    "TESIS TORATA/Fuentes Tesis/Sin título.canvas",
-    "NETkaizen/Diario/08-mar-2024.md",
-    "TESIS TORATA/Fuentes Tesis",
-    "TESIS TORATA",
+    "- TESIS TORATA/Fuentes Tesis",
+    "- TESIS TORATA",
     "HidroGeologia/Trabajo 2 traducción/Sin título.canvas",
-    "NETkaizen/Diario/02-mar-2024.md",
-    "PLANTILLAS/Plantilla Diario/{{title}}.md",
-    "NETkaizen/Diario/01-mar-2024.md",
-    "NETkaizen/Diario/28-feb-2024.md",
-    "NETkaizen/Diario/27-feb-2024.md",
     "PLANTILLAS/Sin título",
     "NETkaizen/Diario/26-feb-2024.md",
     "HidroGeologia/Trabajo 2 traducción/3. Resultados y Discusiones.md",
     "HidroGeologia/Trabajo 2 traducción/2. Materiales y metodos.md",
     "HidroGeologia/Trabajo 2 traducción/1. Área de estudio.md",
-    "HidroGeologia/Trabajo 2 traducción/Análisis Hidro químico - China.md",
     "GeoTECNIA/Trabajo Yanamayo.canvas",
     "NETkaizen/Diario/12-feb-2024.md",
     "NETkaizen/Diario/24-feb-2024.md",
     "PLANTILLAS/Plantilla Diario",
     "PLANTILLAS",
-    "GeoTECNIA/Anexos/según Normas tecnicas Nacionales.png",
     "GeoTECNIA/Anexos",
     "Anexos/Pasted image 20240225212106.png",
-    "HidroGeologia/Sin título.md",
-    "Anexos/Angulo de Fricción Interna.png",
     "Excalidraw/Drawing 2024-02-11 19.47.11.excalidraw.md",
     "NETkaizen/11-feb-2024.md",
     "GeoTECNIA/Geotecnia.md",
-    "Anexos/Cohesión.png",
-    "Anexos/Empuje Activo.png",
     "Anexos/Empuje Pasivo.png",
-    "NETkaizen/Diario/20-feb-2024.md",
     "Anexos/Pasted image 20240223185505.png",
     "Anexos/Pasted image 20240223183548.png",
     "Anexos",
-    "HidroGeologia/Trabajo 2 traducción/4. Conclusiones.md",
-    "NETkaizen/Diario/21-feb-2024.md",
     "HidroGeologia/Trabajo 2 traducción",
-    "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/CAP 1. HIDROGEOLOGIA BASICA.md",
-    "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/Anexos/CAP 1. HIDROGEOLOGIA BASICA 2024-02-16 19.23.27.excalidraw.md",
-    "NETkaizen/Diario/16-feb-2024.md",
     "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/Anexos",
-    "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/0. Hidrogeología Ambiental.md",
     "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/Sin título.canvas",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/fundamentos de Hidrogeologia.canvas"
   ]
