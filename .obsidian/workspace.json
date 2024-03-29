@@ -1,55 +1,42 @@
 {
   "main": {
-    "id": "2b9ab95bf4fd3d92",
+    "id": "b33f6259e2165873",
     "type": "split",
     "children": [
       {
-        "id": "2b0ded8c48408436",
+        "id": "2c10a024eadb96b2",
         "type": "tabs",
         "children": [
           {
-            "id": "cd252936fbb835e4",
+            "id": "fa9a845e6612c0c3",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "- TESIS TORATA/Fuentes Tesis/Sin título.canvas",
+                "file": "TRABAJO COER/ALTO SOLAR/GEOLOGIA ALTO SOLAR/Sin título.canvas",
                 "viewState": {
-                  "x": 46.035,
-                  "y": 716.9132583527119,
-                  "zoom": -0.5064647226532301
+                  "x": 428.34820881910326,
+                  "y": 117.22400286654317,
+                  "zoom": -0.5555555216471354
                 }
               }
             }
-          },
-          {
-            "id": "0dd378798c73fb29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NETkaizen/Diario/marzo-27-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a389747497ed398f",
+    "id": "713fa1212fd6baba",
     "type": "split",
     "children": [
       {
-        "id": "aeff643d7b643c85",
+        "id": "88a988774f712108",
         "type": "tabs",
         "children": [
           {
-            "id": "563841643fa6851e",
+            "id": "06aecb91579672dc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,7 +46,7 @@
             }
           },
           {
-            "id": "8a8894563f5bc459",
+            "id": "dee5178ccad193bb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -74,7 +61,7 @@
             }
           },
           {
-            "id": "d16ef2005a87de4e",
+            "id": "a4c14dcbe4e05737",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,23 +72,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 300
   },
   "right": {
-    "id": "155781e0f8ea6e66",
+    "id": "dd42f2c6c8693b31",
     "type": "split",
     "children": [
       {
-        "id": "562188fb402b565c",
+        "id": "5a5ef1780b23f75e",
         "type": "tabs",
         "children": [
           {
-            "id": "9593543e0b712c59",
+            "id": "93f0300d294de8de",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NETkaizen/Diario/marzo-27-2024.md",
+                "file": "TRABAJO COER/ALTO SOLAR/GEOLOGIA ALTO SOLAR/Sin título.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,19 +100,19 @@
             }
           },
           {
-            "id": "856493f5fe99f0ec",
+            "id": "51d8fc8e5b7fe35b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NETkaizen/Diario/marzo-27-2024.md",
+                "file": "TRABAJO COER/ALTO SOLAR/GEOLOGIA ALTO SOLAR/Sin título.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d35e7905bd6dc736",
+            "id": "719d4559241f7629",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,110 +123,94 @@
             }
           },
           {
-            "id": "e4f278313ab32741",
+            "id": "25a38960ddf93155",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "NETkaizen/Diario/marzo-27-2024.md"
+                "file": "TRABAJO COER/ALTO SOLAR/GEOLOGIA ALTO SOLAR/Sin título.canvas"
               }
             }
           },
           {
-            "id": "e19b72638030169a",
+            "id": "14265c70ea817512",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "a278536c1cf5e91a",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "edee76a001e2f7a5",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "canvas:Crear nuevo lienzo": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian42-brat:BRAT": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0dd378798c73fb29",
+  "active": "fa9a845e6612c0c3",
   "lastOpenFiles": [
-    "- TESIS TORATA/Fuentes Tesis/Sin título.canvas",
     "NETkaizen/Diario/marzo-27-2024.md",
-    "Sin título",
+    "TRABAJO COER/ALTO SOLAR/GEOLOGIA ALTO SOLAR",
+    "TRABAJO COER/ALTO SOLAR",
+    "TRABAJO COER",
+    "PLANTILLAS\\Plantilla Diario",
     "NETkaizen/Diario/marzo-27-2024_COER Mqg.md",
     "NETkaizen/Diario/marzo-25-2024_Torata_NetSocial.md",
     "NETkaizen/Diario/marzo-09-2024_Moquegua.md",
     "NETkaizen/Diario/marzo-08-2024_Puno Milena.md",
+    "NETkaizen\\Diario",
+    "Excalidraw/Drawing 2024-02-11 19.47.11.excalidraw.md",
     "NETkaizen/Diario/marzo-21-2024.md",
-    "NETkaizen/Diario/marzo-17-2024.md",
-    "NETkaizen/Diario/marzo-20-2024.md",
-    "NETkaizen/Diario/marzo-06-2024.md",
-    "- TESIS TORATA/Fuentes Tesis/Fuentes.md",
-    "PLANTILLAS/Plantilla Diario/{{title}}.md",
-    "NETkaizen/Diario/mar.-08-2024.md",
-    "NETkaizen/Diario/mar.-07-2024.md",
-    "NETkaizen/Diario/27-feb-2024.md",
-    "NETkaizen/Diario/08-mar-2024.md",
-    "NETkaizen/Diario/02-mar-2024.md",
-    "NETkaizen/Diario/01-mar-2024.md",
-    "GeoTECNIA/Anexos/según Normas tecnicas Nacionales.png",
-    "Anexos/Empuje Activo.png",
-    "Anexos/Cohesión.png",
-    "Anexos/Angulo de Fricción Interna.png",
-    "HidroGeologia/Sin título.md",
+    "GeoTECNIA/Anexos 1/Empuje Activo.png",
     "mj.md",
-    "HidroGeologia/Trabajo 2 traducción/Análisis Hidro químico - China.md",
-    "NETkaizen/Diario/28-feb-2024.md",
-    "TESIS TORATA/Fuentes Tesis/Anexos/Pasted image 20240308121448.png",
-    "TESIS TORATA/Fuentes Tesis/Anexos",
-    "- TESIS TORATA/Fuentes Tesis",
-    "- TESIS TORATA",
+    "TRABAJO COER/ALTO SOLAR/GEOLOGIA ALTO SOLAR/Sin título.canvas",
+    "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/0. Hidrogeología Ambiental.md",
+    "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/CAP 1. HIDROGEOLOGIA BASICA.md",
+    "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/Sin título.canvas",
+    "NETkaizen/Diario/11-feb-2024.md",
+    "PLANTILLAS/Plantilla Diario/{{title}}.md",
+    "PLANTILLAS/Plantilla Diario",
+    "PLANTILLAS",
+    "NETkaizen/Diario/marzo-20-2024.md",
+    "NETkaizen/Diario/marzo-17-2024.md",
+    "NETkaizen/Diario/marzo-09-2024.md",
+    "NETkaizen/Diario/marzo-08-2024.md",
+    "NETkaizen/Diario/marzo-06-2024.md",
     "HidroGeologia/Trabajo 2 traducción/Sin título.canvas",
-    "PLANTILLAS/Sin título",
-    "NETkaizen/Diario/26-feb-2024.md",
+    "HidroGeologia/Trabajo 2 traducción/Análisis Hidro químico - China.md",
+    "HidroGeologia/Trabajo 2 traducción/4. Conclusiones.md",
     "HidroGeologia/Trabajo 2 traducción/3. Resultados y Discusiones.md",
     "HidroGeologia/Trabajo 2 traducción/2. Materiales y metodos.md",
     "HidroGeologia/Trabajo 2 traducción/1. Área de estudio.md",
-    "GeoTECNIA/Trabajo Yanamayo.canvas",
-    "PLANTILLAS/Plantilla Diario",
-    "PLANTILLAS",
-    "GeoTECNIA/Anexos",
-    "Anexos/Pasted image 20240225212106.png",
-    "Anexos/Empuje Pasivo.png",
-    "Anexos/Pasted image 20240223185505.png",
-    "Anexos/Pasted image 20240223183548.png",
-    "Anexos",
     "HidroGeologia/Trabajo 2 traducción",
-    "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/Sin título.canvas",
+    "HidroGeologia\\Trabajo 2 traducción",
+    "HidroGeologia/Sin título.md",
+    "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/Anexos/CAP 1. HIDROGEOLOGIA BASICA 2024-02-16 19.23.27.excalidraw.md",
+    "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/Anexos",
+    "GeoTECNIA/Trabajo Yanamayo.canvas",
+    "GeoTECNIA/Anexos/según Normas tecnicas Nacionales.png",
+    "GeoTECNIA/Anexos 1/Pasted image 20240225212106.png",
+    "GeoTECNIA/Anexos 1/Pasted image 20240223185505.png",
+    "GeoTECNIA/Anexos 1/Pasted image 20240223183548.png",
+    "GeoTECNIA/Anexos 1/Empuje Pasivo.png",
+    "GeoTECNIA/Anexos 1/Cohesión.png",
+    "GeoTECNIA/Anexos 1/Angulo de Fricción Interna.png",
+    "- TESIS TORATA/Fuentes Tesis/Sin título.canvas",
+    "- TESIS TORATA/Fuentes Tesis/Fuentes.md",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/fundamentos de Hidrogeologia.canvas"
   ]
 }
