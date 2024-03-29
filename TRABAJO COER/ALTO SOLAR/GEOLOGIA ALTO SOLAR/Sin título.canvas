@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"138f3cdbaa27c02f","type":"text","text":"GEOLOGIA REGIONAL","x":-340,"y":20,"width":250,"height":60},
+		{"id":"e1b5555d74a1a928","x":-60,"y":30,"width":1060,"height":410,"type":"text","text":"FORMACION MOQUEGUA > 1500 m (PN-mo_i - PN-mo_s)\nSedimentitas (Adams, 1906), conformadas por conglomerados polimícticos, con clastos de, guijas y areniscas gruesas, medianamente estratificadas, intercalandose algunos niveles de tobas grises blanquecinos en las secuencias superiores (PN-mo_s). Los clastos corresponden a andesitas y riolitas e intrusivos dioríticos. Estas secuencias presentan numerosas estructuras sedimentarias (Estratificación sesgada - gradada, canales de corte y relleno). En la localidad de Mirave - Ilabaya, esta unidad esta compuesta por conglomerados redondeados (PN-mo_i) con clastos polimícticos, que presentan imbricación al SO, incrementandose la matriz arenosa con reducción de los materiales gruesos en dirección SO, originando un cambio de facies laterales que gradan a las secuencias de arenas medias y lodolitas de la Formación Sotillo. Las tobas han sido datadas cerca al cerro Baúl en 25,3+/-0.8; Cero Blanco en 22.7±0.8 (bt); y en Cerro Purgatorio; 23.25±0.8 (Tosdal, et.al. 1981) Ma. Es asignada al Mioceno ."},
+		{"id":"493e186ce5619fab","x":-185,"y":-180,"width":525,"height":100,"type":"text","text":"“Asociación de Viviendas Alto Solar”, en el distrito de Samegua, Provincia de Mariscal Nieto, Departamento de Moquegua."}
+	],
+	"edges":[]
+}
