@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "54fd6207b9c4a821",
+        "id": "4b7997fed6752d5e",
         "type": "tabs",
         "children": [
           {
-            "id": "d02d3001e6c25731",
+            "id": "7dac142e8a03c612",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ANGLO AMERICAN/AAQ- Acquire/Conceptos/0. Conceptos Generales 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65d5e9a97a27b012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANGLO AMERICAN/AAQ- Acquire/Conceptos/Conceptos Acquire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b6d40e6d2f014ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NETkaizen/Diario/abril-05-2024- Viernes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "right": {
     "id": "155781e0f8ea6e66",
@@ -82,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NETkaizen/Diario/abril-05-2024- Viernes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NETkaizen/Diario/abril-05-2024- Viernes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NETkaizen/Diario/abril-05-2024- Viernes.md"
+              }
             }
           },
           {
@@ -146,11 +178,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,15 +200,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d02d3001e6c25731",
+  "active": "0b6d40e6d2f014ce",
   "lastOpenFiles": [
+    "NETkaizen/Diario/abril-04-2024- Moquegua-.md",
+    "NETkaizen/Diario/abril-05-2024- Viernes.md",
+    "NETkaizen/Diario/abril-04-2024.md",
+    "ANGLO AMERICAN/AAQ- Acquire/Conceptos/Conceptos Acquire.md",
+    "ANGLO AMERICAN/AAQ- Acquire/Conceptos/1. Almacenamiento de datos.md",
+    "ANGLO AMERICAN/AAQ- Acquire/Conceptos/4. Visualización de Datos de Minesight.md",
+    "ANGLO AMERICAN/AAQ- Acquire/Conceptos/3. Exportación de Datos.md",
+    "ANGLO AMERICAN/AAQ- Acquire/Conceptos/2. Generación de Procesamientos.md",
+    "ANGLO AMERICAN/AAQ- Acquire/Conceptos/0. Conceptos Generales 1.md",
+    "Sin título",
+    "ANGLO AMERICAN/AAQ- GEOLOGIA",
+    "NETkaizen/Diario/abril-03-2024.md",
+    "NETkaizen/Diario/marzo-25-2024_Torata_NetSocial.md",
+    "PLANTILLAS/Plantilla Diario/{{title}}.md",
+    "Sin título.md",
+    "ANGLO AMERICAN/AAQ-Seguridad",
+    "ANGLO AMERICAN/AAQ-QAQC",
+    "ANGLO AMERICAN/AAQ- Acquire",
+    "ANGLO AMERICAN/AAQ-Datamine",
+    "ANGLO AMERICAN",
+    "NETkaizen/Diario/abril-01-2024.md",
+    "NETkaizen/Diario/marzo-27-2024.md",
+    "NETkaizen/Diario/marzo-28-2024.md",
     "NETkaizen/Diario/marzo-29-2024.md",
     "- TESIS TORATA/Fuentes Tesis/Sin título.canvas",
-    "NETkaizen/Diario/marzo-28-2024.md",
-    "NETkaizen/Diario/marzo-27-2024.md",
-    "Sin título",
+    "ANGLO AMERICAN/AAQ- Acquire/Conceptos",
     "NETkaizen/Diario/marzo-27-2024_COER Mqg.md",
-    "NETkaizen/Diario/marzo-25-2024_Torata_NetSocial.md",
     "NETkaizen/Diario/marzo-09-2024_Moquegua.md",
     "NETkaizen/Diario/marzo-08-2024_Puno Milena.md",
     "NETkaizen/Diario/marzo-21-2024.md",
@@ -182,40 +236,20 @@
     "NETkaizen/Diario/marzo-20-2024.md",
     "NETkaizen/Diario/marzo-06-2024.md",
     "- TESIS TORATA/Fuentes Tesis/Fuentes.md",
-    "PLANTILLAS/Plantilla Diario/{{title}}.md",
     "NETkaizen/Diario/mar.-08-2024.md",
-    "NETkaizen/Diario/mar.-07-2024.md",
-    "NETkaizen/Diario/27-feb-2024.md",
-    "NETkaizen/Diario/08-mar-2024.md",
-    "NETkaizen/Diario/02-mar-2024.md",
-    "NETkaizen/Diario/01-mar-2024.md",
     "GeoTECNIA/Anexos/según Normas tecnicas Nacionales.png",
     "Anexos/Empuje Activo.png",
     "Anexos/Cohesión.png",
     "Anexos/Angulo de Fricción Interna.png",
-    "HidroGeologia/Sin título.md",
-    "mj.md",
-    "HidroGeologia/Trabajo 2 traducción/Análisis Hidro químico - China.md",
-    "NETkaizen/Diario/28-feb-2024.md",
     "TESIS TORATA/Fuentes Tesis/Anexos/Pasted image 20240308121448.png",
     "TESIS TORATA/Fuentes Tesis/Anexos",
     "- TESIS TORATA/Fuentes Tesis",
-    "- TESIS TORATA",
     "HidroGeologia/Trabajo 2 traducción/Sin título.canvas",
-    "PLANTILLAS/Sin título",
-    "NETkaizen/Diario/26-feb-2024.md",
-    "HidroGeologia/Trabajo 2 traducción/3. Resultados y Discusiones.md",
-    "HidroGeologia/Trabajo 2 traducción/2. Materiales y metodos.md",
     "GeoTECNIA/Trabajo Yanamayo.canvas",
-    "PLANTILLAS/Plantilla Diario",
-    "PLANTILLAS",
-    "GeoTECNIA/Anexos",
     "Anexos/Pasted image 20240225212106.png",
     "Anexos/Empuje Pasivo.png",
     "Anexos/Pasted image 20240223185505.png",
     "Anexos/Pasted image 20240223183548.png",
-    "Anexos",
-    "HidroGeologia/Trabajo 2 traducción",
     "HidroGeologia/HIDROGEOLOGIA AMBIENTAL/Sin título.canvas",
     "HidroGeologia/Fundamentos de Hidrogeologia UNSA/fundamentos de Hidrogeologia.canvas"
   ]
